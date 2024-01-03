@@ -9,7 +9,13 @@ plugins {
 }
 
 group = "com.redis.yoon"
-version = "0.0.1-SNAPSHOT"
+version = "0.0.1"
+
+tasks.bootJar {
+    enabled = true
+    archiveBaseName.set("redis-demo")
+}
+tasks.jar {enabled = false}
 
 java {
     sourceCompatibility = JavaVersion.VERSION_17

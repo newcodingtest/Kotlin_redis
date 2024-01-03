@@ -19,7 +19,11 @@ import org.springframework.test.web.servlet.result.MockMvcResultMatchers.status
 @AutoConfigureMockMvc
 class SearchHouseApiTests @Autowired constructor(
     val mockMvc: MockMvc,
+//    val searchHouseApi: SearchHouseApi
+
 ){
+   // @MockBean
+   // private lateinit var searchHouseApi: SearchHouseApi
 
     @DisplayName("Notice를 생성할 수 있다.")
     @Test
@@ -42,7 +46,7 @@ class SearchHouseApiTests @Autowired constructor(
 
         //when
         mockMvc.perform(get(url))
-            .andExpect(status().isOk)
+            .andExpect(status().isAccepted)
             .andDo(MockMvcResultHandlers.print())
     }
 

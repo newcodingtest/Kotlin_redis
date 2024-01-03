@@ -60,3 +60,88 @@ INFO  24-01-03 11:01:18[http-nio-8081-exec-1] [SearchHouseService:22] - get Redi
 
  value test
 INFO  24-01-03 11:01:18[http-nio-8081-exec-1] [SearchHouseApi:32] - value test
+INFO  24-01-03 14:46:35[Test worker] [AnnotationConfigContextLoaderUtils:83] - Could not detect default configuration classes for test class [com.redis.yoon.RedisDemoApplicationTests]: RedisDemoApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+INFO  24-01-03 14:46:35[Test worker] [SpringBootTestContextBootstrapper:234] - Found @SpringBootConfiguration com.redis.yoon.RedisDemoApplication for test class com.redis.yoon.RedisDemoApplicationTests
+INFO  24-01-03 14:46:35[Test worker] [RedisDemoApplicationTests:50] - Starting RedisDemoApplicationTests using Java 17.0.8.1 with PID 26940 (started by dbswn in D:\backup\intelli_workspace\study\redis_study\RedisDemo)
+INFO  24-01-03 14:46:35[Test worker] [RedisDemoApplicationTests:662] - No active profile set, falling back to 1 default profile: "default"
+INFO  24-01-03 14:46:37[Test worker] [RepositoryConfigurationDelegate:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+INFO  24-01-03 14:46:37[Test worker] [RepositoryConfigurationDelegate:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+INFO  24-01-03 14:46:37[Test worker] [RepositoryConfigurationDelegate:208] - Finished Spring Data repository scanning in 24 ms. Found 0 Redis repository interfaces.
+INFO  24-01-03 14:46:39[Test worker] [RedisDemoApplicationTests:56] - Started RedisDemoApplicationTests in 3.979 seconds (process running for 6.519)
+INFO  24-01-03 14:46:40[Test worker] [AnnotationConfigContextLoaderUtils:83] - Could not detect default configuration classes for test class [com.redis.yoon.api.SearchHouseApiTests]: SearchHouseApiTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+INFO  24-01-03 14:46:40[Test worker] [SpringBootTestContextBootstrapper:234] - Found @SpringBootConfiguration com.redis.yoon.RedisDemoApplication for test class com.redis.yoon.api.SearchHouseApiTests
+INFO  24-01-03 14:46:40[Test worker] [SearchHouseApiTests:50] - Starting SearchHouseApiTests using Java 17.0.8.1 with PID 26940 (started by dbswn in D:\backup\intelli_workspace\study\redis_study\RedisDemo)
+INFO  24-01-03 14:46:40[Test worker] [SearchHouseApiTests:662] - No active profile set, falling back to 1 default profile: "default"
+INFO  24-01-03 14:46:41[Test worker] [RepositoryConfigurationDelegate:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+INFO  24-01-03 14:46:41[Test worker] [RepositoryConfigurationDelegate:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+INFO  24-01-03 14:46:41[Test worker] [RepositoryConfigurationDelegate:208] - Finished Spring Data repository scanning in 9 ms. Found 0 Redis repository interfaces.
+INFO  24-01-03 14:46:41[Test worker] [SpringBootMockServletContext:435] - Initializing Spring TestDispatcherServlet ''
+INFO  24-01-03 14:46:41[Test worker] [TestDispatcherServlet:532] - Initializing Servlet ''
+INFO  24-01-03 14:46:41[Test worker] [TestDispatcherServlet:554] - Completed initialization in 2 ms
+INFO  24-01-03 14:46:41[Test worker] [SearchHouseApiTests:56] - Started SearchHouseApiTests in 0.772 seconds (process running for 8.687)
+INFO  24-01-03 14:46:42[Test worker] [SearchHouseApi:22] - value test
+INFO  24-01-03 14:46:42[Test worker] [AnnotationConfigContextLoaderUtils:83] - Could not detect default configuration classes for test class [com.redis.yoon.test.RedisCrudTests]: RedisCrudTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+INFO  24-01-03 14:46:42[Test worker] [SpringBootTestContextBootstrapper:234] - Found @SpringBootConfiguration com.redis.yoon.RedisDemoApplication for test class com.redis.yoon.test.RedisCrudTests
+INFO  24-01-03 14:47:18[Test worker] [AnnotationConfigContextLoaderUtils:83] - Could not detect default configuration classes for test class [com.redis.yoon.api.SearchHouseApiTests]: SearchHouseApiTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+INFO  24-01-03 14:47:18[Test worker] [SpringBootTestContextBootstrapper:234] - Found @SpringBootConfiguration com.redis.yoon.RedisDemoApplication for test class com.redis.yoon.api.SearchHouseApiTests
+INFO  24-01-03 14:47:19[Test worker] [SearchHouseApiTests:50] - Starting SearchHouseApiTests using Java 17.0.8.1 with PID 10824 (started by dbswn in D:\backup\intelli_workspace\study\redis_study\RedisDemo)
+INFO  24-01-03 14:47:19[Test worker] [SearchHouseApiTests:662] - No active profile set, falling back to 1 default profile: "default"
+INFO  24-01-03 14:47:21[Test worker] [RepositoryConfigurationDelegate:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+INFO  24-01-03 14:47:21[Test worker] [RepositoryConfigurationDelegate:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+INFO  24-01-03 14:47:21[Test worker] [RepositoryConfigurationDelegate:208] - Finished Spring Data repository scanning in 24 ms. Found 0 Redis repository interfaces.
+INFO  24-01-03 14:47:23[Test worker] [SpringBootMockServletContext:435] - Initializing Spring TestDispatcherServlet ''
+INFO  24-01-03 14:47:23[Test worker] [TestDispatcherServlet:532] - Initializing Servlet ''
+INFO  24-01-03 14:47:23[Test worker] [TestDispatcherServlet:554] - Completed initialization in 1 ms
+INFO  24-01-03 14:47:23[Test worker] [SearchHouseApiTests:56] - Started SearchHouseApiTests in 4.255 seconds (process running for 6.729)
+INFO  24-01-03 14:47:25[Test worker] [SearchHouseService:22] - get Redis value 
+
+ value test
+INFO  24-01-03 14:47:25[Test worker] [SearchHouseApi:32] - value test
+INFO  24-01-03 14:48:22[Test worker] [AnnotationConfigContextLoaderUtils:83] - Could not detect default configuration classes for test class [com.redis.yoon.api.SearchHouseApiTests]: SearchHouseApiTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+INFO  24-01-03 14:48:22[Test worker] [SpringBootTestContextBootstrapper:234] - Found @SpringBootConfiguration com.redis.yoon.RedisDemoApplication for test class com.redis.yoon.api.SearchHouseApiTests
+INFO  24-01-03 14:48:22[Test worker] [SearchHouseApiTests:50] - Starting SearchHouseApiTests using Java 17.0.8.1 with PID 36812 (started by dbswn in D:\backup\intelli_workspace\study\redis_study\RedisDemo)
+INFO  24-01-03 14:48:22[Test worker] [SearchHouseApiTests:662] - No active profile set, falling back to 1 default profile: "default"
+INFO  24-01-03 14:48:24[Test worker] [RepositoryConfigurationDelegate:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+INFO  24-01-03 14:48:24[Test worker] [RepositoryConfigurationDelegate:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+INFO  24-01-03 14:48:24[Test worker] [RepositoryConfigurationDelegate:208] - Finished Spring Data repository scanning in 22 ms. Found 0 Redis repository interfaces.
+INFO  24-01-03 14:48:26[Test worker] [SpringBootMockServletContext:435] - Initializing Spring TestDispatcherServlet ''
+INFO  24-01-03 14:48:26[Test worker] [TestDispatcherServlet:532] - Initializing Servlet ''
+INFO  24-01-03 14:48:26[Test worker] [TestDispatcherServlet:554] - Completed initialization in 2 ms
+INFO  24-01-03 14:48:26[Test worker] [SearchHouseApiTests:56] - Started SearchHouseApiTests in 4.003 seconds (process running for 6.29)
+INFO  24-01-03 14:48:58[Test worker] [AnnotationConfigContextLoaderUtils:83] - Could not detect default configuration classes for test class [com.redis.yoon.api.SearchHouseApiTests]: SearchHouseApiTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+INFO  24-01-03 14:48:58[Test worker] [SpringBootTestContextBootstrapper:234] - Found @SpringBootConfiguration com.redis.yoon.RedisDemoApplication for test class com.redis.yoon.api.SearchHouseApiTests
+INFO  24-01-03 14:48:59[Test worker] [SearchHouseApiTests:50] - Starting SearchHouseApiTests using Java 17.0.8.1 with PID 35632 (started by dbswn in D:\backup\intelli_workspace\study\redis_study\RedisDemo)
+INFO  24-01-03 14:48:59[Test worker] [SearchHouseApiTests:662] - No active profile set, falling back to 1 default profile: "default"
+INFO  24-01-03 14:49:00[Test worker] [RepositoryConfigurationDelegate:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+INFO  24-01-03 14:49:00[Test worker] [RepositoryConfigurationDelegate:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+INFO  24-01-03 14:49:00[Test worker] [RepositoryConfigurationDelegate:208] - Finished Spring Data repository scanning in 24 ms. Found 0 Redis repository interfaces.
+INFO  24-01-03 14:49:05[Test worker] [SpringBootMockServletContext:435] - Initializing Spring TestDispatcherServlet ''
+INFO  24-01-03 14:49:05[Test worker] [TestDispatcherServlet:532] - Initializing Servlet ''
+INFO  24-01-03 14:49:05[Test worker] [TestDispatcherServlet:554] - Completed initialization in 2 ms
+INFO  24-01-03 14:49:05[Test worker] [SearchHouseApiTests:56] - Started SearchHouseApiTests in 6.407 seconds (process running for 8.882)
+INFO  24-01-03 14:50:08[Test worker] [AnnotationConfigContextLoaderUtils:83] - Could not detect default configuration classes for test class [com.redis.yoon.api.SearchHouseApiTests]: SearchHouseApiTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+INFO  24-01-03 14:50:08[Test worker] [SpringBootTestContextBootstrapper:234] - Found @SpringBootConfiguration com.redis.yoon.RedisDemoApplication for test class com.redis.yoon.api.SearchHouseApiTests
+INFO  24-01-03 14:50:09[Test worker] [SearchHouseApiTests:50] - Starting SearchHouseApiTests using Java 17.0.8.1 with PID 39480 (started by dbswn in D:\backup\intelli_workspace\study\redis_study\RedisDemo)
+INFO  24-01-03 14:50:09[Test worker] [SearchHouseApiTests:662] - No active profile set, falling back to 1 default profile: "default"
+INFO  24-01-03 14:50:10[Test worker] [RepositoryConfigurationDelegate:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+INFO  24-01-03 14:50:10[Test worker] [RepositoryConfigurationDelegate:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+INFO  24-01-03 14:50:10[Test worker] [RepositoryConfigurationDelegate:208] - Finished Spring Data repository scanning in 24 ms. Found 0 Redis repository interfaces.
+INFO  24-01-03 14:50:12[Test worker] [SpringBootMockServletContext:435] - Initializing Spring TestDispatcherServlet ''
+INFO  24-01-03 14:50:12[Test worker] [TestDispatcherServlet:532] - Initializing Servlet ''
+INFO  24-01-03 14:50:12[Test worker] [TestDispatcherServlet:554] - Completed initialization in 1 ms
+INFO  24-01-03 14:50:12[Test worker] [SearchHouseApiTests:56] - Started SearchHouseApiTests in 3.966 seconds (process running for 6.447)
+INFO  24-01-03 14:52:38[Test worker] [AnnotationConfigContextLoaderUtils:83] - Could not detect default configuration classes for test class [com.redis.yoon.api.SearchHouseApiTests]: SearchHouseApiTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+INFO  24-01-03 14:52:38[Test worker] [SpringBootTestContextBootstrapper:234] - Found @SpringBootConfiguration com.redis.yoon.RedisDemoApplication for test class com.redis.yoon.api.SearchHouseApiTests
+INFO  24-01-03 14:52:39[Test worker] [SearchHouseApiTests:50] - Starting SearchHouseApiTests using Java 17.0.8.1 with PID 40672 (started by dbswn in D:\backup\intelli_workspace\study\redis_study\RedisDemo)
+INFO  24-01-03 14:52:39[Test worker] [SearchHouseApiTests:662] - No active profile set, falling back to 1 default profile: "default"
+INFO  24-01-03 14:52:40[Test worker] [RepositoryConfigurationDelegate:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+INFO  24-01-03 14:52:40[Test worker] [RepositoryConfigurationDelegate:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+INFO  24-01-03 14:52:40[Test worker] [RepositoryConfigurationDelegate:208] - Finished Spring Data repository scanning in 17 ms. Found 0 Redis repository interfaces.
+INFO  24-01-03 14:52:42[Test worker] [SpringBootMockServletContext:435] - Initializing Spring TestDispatcherServlet ''
+INFO  24-01-03 14:52:42[Test worker] [TestDispatcherServlet:532] - Initializing Servlet ''
+INFO  24-01-03 14:52:42[Test worker] [TestDispatcherServlet:554] - Completed initialization in 1 ms
+INFO  24-01-03 14:52:42[Test worker] [SearchHouseApiTests:56] - Started SearchHouseApiTests in 3.391 seconds (process running for 4.926)
+INFO  24-01-03 14:52:44[Test worker] [SearchHouseService:22] - get Redis value 
+
+ value test
+INFO  24-01-03 14:52:44[Test worker] [SearchHouseApi:32] - value test

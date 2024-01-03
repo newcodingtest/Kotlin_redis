@@ -58,6 +58,12 @@ java -jar redis-demo.jar
 
 ```
 POST http://localhost:8081/notice
+
+
+body
+{
+ value test
+}
 ```
 
 ```

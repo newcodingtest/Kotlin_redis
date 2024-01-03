@@ -1,0 +1,62 @@
+INFO  24-01-03 10:45:59[Test worker] [AnnotationConfigContextLoaderUtils:83] - Could not detect default configuration classes for test class [com.redis.yoon.api.SearchHouseApiTests]: SearchHouseApiTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+INFO  24-01-03 10:45:59[Test worker] [SpringBootTestContextBootstrapper:234] - Found @SpringBootConfiguration com.redis.yoon.RedisDemoApplication for test class com.redis.yoon.api.SearchHouseApiTests
+INFO  24-01-03 10:46:00[Test worker] [SearchHouseApiTests:50] - Starting SearchHouseApiTests using Java 17.0.8.1 with PID 18932 (started by dbswn in D:\backup\intelli_workspace\study\redis_study\RedisDemo)
+INFO  24-01-03 10:46:00[Test worker] [SearchHouseApiTests:662] - No active profile set, falling back to 1 default profile: "default"
+INFO  24-01-03 10:46:01[Test worker] [RepositoryConfigurationDelegate:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+INFO  24-01-03 10:46:01[Test worker] [RepositoryConfigurationDelegate:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+INFO  24-01-03 10:46:01[Test worker] [RepositoryConfigurationDelegate:208] - Finished Spring Data repository scanning in 19 ms. Found 0 Redis repository interfaces.
+INFO  24-01-03 10:46:05[Test worker] [SpringBootMockServletContext:435] - Initializing Spring TestDispatcherServlet ''
+INFO  24-01-03 10:46:05[Test worker] [TestDispatcherServlet:532] - Initializing Servlet ''
+INFO  24-01-03 10:46:05[Test worker] [TestDispatcherServlet:554] - Completed initialization in 1 ms
+INFO  24-01-03 10:46:05[Test worker] [SearchHouseApiTests:56] - Started SearchHouseApiTests in 5.304 seconds (process running for 7.304)
+INFO  24-01-03 10:51:24[Test worker] [AnnotationConfigContextLoaderUtils:83] - Could not detect default configuration classes for test class [com.redis.yoon.api.SearchHouseApiTests]: SearchHouseApiTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+INFO  24-01-03 10:51:24[Test worker] [SpringBootTestContextBootstrapper:234] - Found @SpringBootConfiguration com.redis.yoon.RedisDemoApplication for test class com.redis.yoon.api.SearchHouseApiTests
+INFO  24-01-03 10:51:25[Test worker] [SearchHouseApiTests:50] - Starting SearchHouseApiTests using Java 17.0.8.1 with PID 19048 (started by dbswn in D:\backup\intelli_workspace\study\redis_study\RedisDemo)
+INFO  24-01-03 10:51:25[Test worker] [SearchHouseApiTests:662] - No active profile set, falling back to 1 default profile: "default"
+INFO  24-01-03 10:51:26[Test worker] [RepositoryConfigurationDelegate:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+INFO  24-01-03 10:51:26[Test worker] [RepositoryConfigurationDelegate:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+INFO  24-01-03 10:51:26[Test worker] [RepositoryConfigurationDelegate:208] - Finished Spring Data repository scanning in 14 ms. Found 0 Redis repository interfaces.
+INFO  24-01-03 10:51:29[Test worker] [SpringBootMockServletContext:435] - Initializing Spring TestDispatcherServlet ''
+INFO  24-01-03 10:51:29[Test worker] [TestDispatcherServlet:532] - Initializing Servlet ''
+INFO  24-01-03 10:51:29[Test worker] [TestDispatcherServlet:554] - Completed initialization in 1 ms
+INFO  24-01-03 10:51:29[Test worker] [SearchHouseApiTests:56] - Started SearchHouseApiTests in 4.922 seconds (process running for 6.4)
+INFO  24-01-03 10:53:38[Test worker] [AnnotationConfigContextLoaderUtils:83] - Could not detect default configuration classes for test class [com.redis.yoon.api.SearchHouseApiTests]: SearchHouseApiTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+INFO  24-01-03 10:53:38[Test worker] [SpringBootTestContextBootstrapper:234] - Found @SpringBootConfiguration com.redis.yoon.RedisDemoApplication for test class com.redis.yoon.api.SearchHouseApiTests
+INFO  24-01-03 10:53:39[Test worker] [SearchHouseApiTests:50] - Starting SearchHouseApiTests using Java 17.0.8.1 with PID 33576 (started by dbswn in D:\backup\intelli_workspace\study\redis_study\RedisDemo)
+INFO  24-01-03 10:53:39[Test worker] [SearchHouseApiTests:662] - No active profile set, falling back to 1 default profile: "default"
+INFO  24-01-03 10:53:40[Test worker] [RepositoryConfigurationDelegate:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+INFO  24-01-03 10:53:40[Test worker] [RepositoryConfigurationDelegate:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+INFO  24-01-03 10:53:40[Test worker] [RepositoryConfigurationDelegate:208] - Finished Spring Data repository scanning in 15 ms. Found 0 Redis repository interfaces.
+INFO  24-01-03 10:53:42[Test worker] [SpringBootMockServletContext:435] - Initializing Spring TestDispatcherServlet ''
+INFO  24-01-03 10:53:42[Test worker] [TestDispatcherServlet:532] - Initializing Servlet ''
+INFO  24-01-03 10:53:42[Test worker] [TestDispatcherServlet:554] - Completed initialization in 1 ms
+INFO  24-01-03 10:53:42[Test worker] [SearchHouseApiTests:56] - Started SearchHouseApiTests in 3.343 seconds (process running for 4.903)
+INFO  24-01-03 10:56:39[Test worker] [AnnotationConfigContextLoaderUtils:83] - Could not detect default configuration classes for test class [com.redis.yoon.test.RedisCrudTests]: RedisCrudTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+INFO  24-01-03 10:56:39[Test worker] [SpringBootTestContextBootstrapper:234] - Found @SpringBootConfiguration com.redis.yoon.RedisDemoApplication for test class com.redis.yoon.test.RedisCrudTests
+INFO  24-01-03 10:56:40[Test worker] [RedisCrudTests:50] - Starting RedisCrudTests using Java 17.0.8.1 with PID 28176 (started by dbswn in D:\backup\intelli_workspace\study\redis_study\RedisDemo)
+INFO  24-01-03 10:56:40[Test worker] [RedisCrudTests:662] - No active profile set, falling back to 1 default profile: "default"
+INFO  24-01-03 10:56:41[Test worker] [RepositoryConfigurationDelegate:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+INFO  24-01-03 10:56:41[Test worker] [RepositoryConfigurationDelegate:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+INFO  24-01-03 10:56:41[Test worker] [RepositoryConfigurationDelegate:208] - Finished Spring Data repository scanning in 14 ms. Found 0 Redis repository interfaces.
+INFO  24-01-03 10:56:43[Test worker] [RedisCrudTests:56] - Started RedisCrudTests in 2.998 seconds (process running for 4.458)
+INFO  24-01-03 10:56:53[main] [RedisDemoApplicationKt:50] - Starting RedisDemoApplicationKt using Java 17.0.8.1 with PID 17600 (D:\backup\intelli_workspace\study\redis_study\RedisDemo\build\classes\kotlin\main started by dbswn in D:\backup\intelli_workspace\study\redis_study\RedisDemo)
+INFO  24-01-03 10:56:53[main] [RedisDemoApplicationKt:662] - No active profile set, falling back to 1 default profile: "default"
+INFO  24-01-03 10:56:54[main] [RepositoryConfigurationDelegate:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+INFO  24-01-03 10:56:54[main] [RepositoryConfigurationDelegate:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+INFO  24-01-03 10:56:54[main] [RepositoryConfigurationDelegate:208] - Finished Spring Data repository scanning in 14 ms. Found 0 Redis repository interfaces.
+INFO  24-01-03 10:56:55[main] [TomcatWebServer:109] - Tomcat initialized with port 8081 (http)
+INFO  24-01-03 10:56:55[main] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-8081"]
+INFO  24-01-03 10:56:55[main] [StandardService:173] - Starting service [Tomcat]
+INFO  24-01-03 10:56:55[main] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/10.1.17]
+INFO  24-01-03 10:56:55[main] [[/]:173] - Initializing Spring embedded WebApplicationContext
+INFO  24-01-03 10:56:55[main] [ServletWebServerApplicationContext:296] - Root WebApplicationContext: initialization completed in 1281 ms
+INFO  24-01-03 10:56:55[main] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-8081"]
+INFO  24-01-03 10:56:55[main] [TomcatWebServer:241] - Tomcat started on port 8081 (http) with context path ''
+INFO  24-01-03 10:56:55[main] [RedisDemoApplicationKt:56] - Started RedisDemoApplicationKt in 2.313 seconds (process running for 3.077)
+INFO  24-01-03 11:01:17[http-nio-8081-exec-1] [[/]:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+INFO  24-01-03 11:01:17[http-nio-8081-exec-1] [DispatcherServlet:532] - Initializing Servlet 'dispatcherServlet'
+INFO  24-01-03 11:01:17[http-nio-8081-exec-1] [DispatcherServlet:554] - Completed initialization in 0 ms
+INFO  24-01-03 11:01:18[http-nio-8081-exec-1] [SearchHouseService:22] - get Redis value 
+
+ value test
+INFO  24-01-03 11:01:18[http-nio-8081-exec-1] [SearchHouseApi:32] - value test

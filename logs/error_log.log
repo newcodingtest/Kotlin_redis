@@ -1,0 +1,15 @@
+ERROR 24-01-02 15:45:36[Test worker] [LoggingFailureAnalysisReporter:40] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 0 of constructor in com.redis.yoon.api.SearchHouseApi required a bean of type 'com.redis.yoon.service.SearchHouseService' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.redis.yoon.service.SearchHouseService' in your configuration.
+
